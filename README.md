@@ -3,6 +3,6 @@
 ---
 ![Screenshot](working.png)
 
-### Please star the repositary if you find this helpful. |:thumbsup:|
+### Please star the repositary if you find this helpful. :thumbsup:
 
 
